@@ -2,12 +2,11 @@
 
  THÔNG TIN CÁ NHÂN
 
-# Tên: Phan Thành Đạt
-# Ngày sinh: 11/06/1995
+# Tên: Ngô Mỹ Hạnh
+# Ngày sinh: 10/02/1997
 # Trình độ: Đại học
 # Chuyên môn: Công nghệ thông tin
 # Kinh nghiệm làm việc: chưa có
 
-###### Dự án cá nhân [Click](https://github.com/pthdat1995/1611020039-PhanThanhDat)
-###### Facebook [Click](https://www.facebook.com/pthdat.95)
-###### Twiter [Click](https://twitter.com/pthdat1995)\
+
+###### Facebook [Click](https://www.facebook.com/)
