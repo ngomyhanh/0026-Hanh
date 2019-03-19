@@ -5,7 +5,7 @@
 # Tên: Ngô Mỹ Hạnh
 # Ngày sinh: 10/02/1997
 # Trình độ: Đại học
-# Chuyên môn: Công nghệ thông tin
+# Chuyên môn: test
 # Kinh nghiệm làm việc: chưa có
 
 
