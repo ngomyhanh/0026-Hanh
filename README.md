@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hello, wellcome to my page
 
-You can use the [editor on GitHub](https://github.com/ngomyhanh/0026-Hanh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ THÔNG TIN CÁ NHÂN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tên: Phan Thành Đạt
+# Ngày sinh: 11/06/1995
+# Trình độ: Đại học
+# Chuyên môn: Công nghệ thông tin
+# Kinh nghiệm làm việc: chưa có
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ngomyhanh/0026-Hanh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### Dự án cá nhân [Click](https://github.com/pthdat1995/1611020039-PhanThanhDat)
+###### Facebook [Click](https://www.facebook.com/pthdat.95)
+###### Twiter [Click](https://twitter.com/pthdat1995)\
